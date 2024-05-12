@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: solace-test
+  solaceUsername: gwangbu
+  solacePassword: gwangbu
+  solaceHost: mr-connection-hcnx0u899eb.messaging.solace.cloud
+  solacePort: 55555
+  queueName: Q.GWANGBU1
+  vpnName: aiot
